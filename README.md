@@ -38,24 +38,18 @@ You can click the Preview link to take a look at your changes.
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png"><img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="45" height="45" style="max-width: 100%;"></a><hr/>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="max-width: 100%;"></a><hr/>
     <a href="mailto:mirche.bozhinoski@gmail.com">
-    <img height="32" align="left" alt="Mail" src="/cszach/cszach/raw/master/img/icons/gmail.png" style="max-width: 100%;">
+    <img height="32" align="left" alt="Mail" src="https://img.icons8.com/?size=512&id=qyRpAggnV0zH&format=png" style="max-width: 100%;">
 </a>
-<a href="https://www.linkedin.com/in/zach-nguyen" rel="nofollow">
+<a href="https://www.linkedin.com/in/mirche.bozhinoski" rel="nofollow">
     <img height="32" align="left" alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" style="max-width: 100%;">
 </a>
-<a href="https://paypal.me/dnguy38" rel="nofollow">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="/cszach/cszach/raw/master/img/icons/paypal.png" style="max-width: 100%;">
-</a>
-<a href="https://www.buymeacoffee.com/cszach" rel="nofollow">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="/cszach/cszach/raw/master/img/icons/buymeacoffee.png" style="max-width: 100%;">
-</a>
-<a href="https://liberapay.com/cszach" rel="nofollow">
+<a href="https://www.facebook.com/Mirche.Bozhinoski" rel="nofollow">
     <img height="32" align="left" alt="Liberapay" src="https://img.icons8.com/?size=512&id=yGcWL8copNNQ&format=png" style="max-width: 100%;">
 </a>
-<a href="https://www.instagram.com/thechonkypenguin" rel="nofollow">
+<a href="https://www.instagram.com/m.bozhinoski" rel="nofollow">
     <img height="32" align="left" alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" style="max-width: 100%;">
 </a>
-<a href="https://dribbble.com/cszach" rel="nofollow">
+<a href="https://github.com/MircheBozhinoski" rel="nofollow">
     <img height="32" align="left" alt="Dribbble" src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" style="max-width: 100%;">
 </a>
     
