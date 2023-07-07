@@ -8,7 +8,7 @@
 <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji>  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>
 <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
 <g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>  You can shoot me an email at <a href="mailto:avsingh@umass.edu">mirche.bozhinoski@gmail.com</a>! I'll try to respond as soon as I can.<br>
-<g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji>  Please have a look at my <a href="https://www.adityavsingh.com/resume.html" rel="nofollow">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
+<g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">📄</g-emoji>  Please have a look at my <a href="https://i.imgur.com/hv6Jgu0.png" rel="nofollow">Resume</a> for more details about me. I'm open to feedback and suggestions!</p>
 
 
 <!---
