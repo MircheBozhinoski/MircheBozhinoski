@@ -36,6 +36,27 @@ You can click the Preview link to take a look at your changes.
     <a href="https://aws.amazon.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png"><img src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="45" height="45" style="max-width: 100%;"></a><hr/>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="max-width: 100%;"></a><hr/></p>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="max-width: 100%;"></a><hr/>
+    <a href="mailto:mirche.bozhinoski@gmail.com">
+    <img height="32" align="left" alt="Mail" src="/cszach/cszach/raw/master/img/icons/gmail.png" style="max-width: 100%;">
+</a>
+<a href="https://www.linkedin.com/in/zach-nguyen" rel="nofollow">
+    <img height="32" align="left" alt="LinkedIn" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" style="max-width: 100%;">
+</a>
+<a href="https://paypal.me/dnguy38" rel="nofollow">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="/cszach/cszach/raw/master/img/icons/paypal.png" style="max-width: 100%;">
+</a>
+<a href="https://www.buymeacoffee.com/cszach" rel="nofollow">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="/cszach/cszach/raw/master/img/icons/buymeacoffee.png" style="max-width: 100%;">
+</a>
+<a href="https://liberapay.com/cszach" rel="nofollow">
+    <img height="32" align="left" alt="Liberapay" src="https://img.icons8.com/?size=512&id=yGcWL8copNNQ&format=png" style="max-width: 100%;">
+</a>
+<a href="https://www.instagram.com/thechonkypenguin" rel="nofollow">
+    <img height="32" align="left" alt="Instagram" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" style="max-width: 100%;">
+</a>
+<a href="https://dribbble.com/cszach" rel="nofollow">
+    <img height="32" align="left" alt="Dribbble" src="https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" style="max-width: 100%;">
+</a>
     
     
