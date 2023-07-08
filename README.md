@@ -38,14 +38,13 @@ You can click the Preview link to take a look at your changes.
     <img height="40" align="left" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="max-width: 100%;"></a><br>
     <h2 tabindex="-1" dir="auto"><a id="user-content-life" class="anchor" aria-hidden="true" href="#life"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
     <h4>DevOps:</h4>
-    <img height="40" align="left" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;"></a>
     <a href="https://www.docker.com/" rel="nofollow">
-    <img height="40" align="left" alt="gcp" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="max-width: 100%;"></a>
+    <img height="40" align="left" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;"></a>
     <a href="https://cloud.google.com" rel="nofollow">
-    <img height="40" align="left" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" style="max-width: 100%;"></a>
+    <img height="40" align="left" alt="gcp" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="max-width: 100%;"></a>
     <a href="https://aws.amazon.com" rel="nofollow">
-    <img height="40" align="left" alt="GitHub" src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" style="max-width: 100%;"></a>
-    <a href="https://www.github.com" rel="nofollow"> <br>
+    <img height="40" align="left" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" style="max-width: 100%;"></a>
+     <br>
     <h2 tabindex="-1" dir="auto"><a id="user-content-life" class="anchor" aria-hidden="true" href="#life"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
     <h4>Development Tools::</h4>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="max-width: 100%;"></a>
